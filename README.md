@@ -8,7 +8,7 @@
 ```markdown
 # Inventory Forecasting
 
-Time series forecasting of weekly inventory levels for a pharmaceutical bottling machine (Electrolit) using deep learning and statistical models.
+Time series forecasting of weekly inventory levels for a oil company.
 
 ##  Objective
 Predict one month of inventory needs using historical sales data to improve planning and reduce waste.
