@@ -29,6 +29,6 @@ Predict one month of inventory needs using historical sales data to improve plan
 - `notebooks/`: model training and evaluation
 - `forecast_plots/`: output graphs for each method
 
-## 🔄 How to Run
+## How to Run
 ```bash
 jupyter notebook notebooks/LSTM_forecasting.ipynb
