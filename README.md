@@ -1,7 +1,7 @@
 
 ---
 
-## Proyecto 2: `inventory-forecasting`
+## Proyecto 2: `Inventory-forecasting`
 
 ### README.md
 
